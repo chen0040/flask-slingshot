@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+.idea/
+*.iml
+Thumbs.db
+
 # Distribution / packaging
 .Python
 env/
